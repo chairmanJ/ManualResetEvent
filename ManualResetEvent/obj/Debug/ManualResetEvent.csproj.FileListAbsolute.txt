@@ -1,0 +1,7 @@
+F:\vsprogram\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.exe.config
+F:\vsprogram\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.exe
+F:\vsprogram\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.pdb
+F:\vsprogram\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.csprojResolveAssemblyReference.cache
+F:\vsprogram\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.csproj.CoreCompileInputs.cache
+F:\vsprogram\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.exe
+F:\vsprogram\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.pdb
