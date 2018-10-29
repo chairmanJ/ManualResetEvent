@@ -18,7 +18,7 @@ namespace ThreadingTester
             Thread tr = Thread.CurrentThread;
             Console.WriteLine(tr.Name);
             
-            for (int x = 0; x < 10; x++)
+            for (int x = 0; x < 10; x++）
             {
                 Thread.Sleep(900);//每延时900ms输出一次
                 Console.WriteLine("Main:"+x);
